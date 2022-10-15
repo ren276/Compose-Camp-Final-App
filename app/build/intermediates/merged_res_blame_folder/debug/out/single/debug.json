@@ -1,0 +1,1422 @@
+[
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_paratha.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\paratha.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_sl.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\sl.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_cf.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\cf.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ve.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ve.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_mz.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\mz.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ni.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ni.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_kp.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\kp.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_recycle_png.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\recycle_png.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ps.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ps.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ea.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ea.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_bh.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\bh.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_kid_friendly_png.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\kid_friendly_png.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_sz.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\sz.png"
+    },
+    {
+        "merged": "com.sandesh.zomatoclone.app-merged_res-51:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.sandesh.zomatoclone.app-main-53:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_fm.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\fm.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_cu.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\cu.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_bw.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\bw.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_it.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\it.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_tj.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\tj.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_pe.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\pe.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_gl.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\gl.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_pr.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\pr.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_cg.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\cg.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_tw.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\tw.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_outdoor_png.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\outdoor_png.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_favorite_filled.xml.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\favorite_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_burgitos_logo.jpg.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\burgitos_logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ax.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ax.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_bg.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_gy.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\gy.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ml.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ml.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_star_filled.xml.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\star_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_sm.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\sm.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_snacks_png.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\snacks_png.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_is.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\is.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ws.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ws.png"
+    },
+    {
+        "merged": "com.sandesh.zomatoclone.app-merged_res-51:/drawable_ic_launcher.png.flat",
+        "source": "com.sandesh.zomatoclone.app-main-53:/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_events_png.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\events_png.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_gm.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\gm.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_aw.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\aw.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_sj.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\sj.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_kfc_logo.jpg.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\kfc_logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_fo.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\fo.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_pure_veg_png.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\pure_veg_png.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_favourite_border.xml.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\favourite_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ie.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ie.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_vg.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\vg.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_al.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\al.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_er.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\er.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_qa.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\qa.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_tl.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\tl.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_veg_icon.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\veg_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_nz.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\nz.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_cd.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\cd.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_jp.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\jp.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_bf.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\bf.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_sx.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\sx.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_kn.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\kn.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_vu.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\vu.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_my.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\my.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_pizza.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\pizza.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_tg.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\tg.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_je.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\je.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_discount_png.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\discount_png.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_pt.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\pt.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_bi.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\bi.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_so.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\so.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_mk.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\mk.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_cr.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\cr.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ke.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ke.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_dessert_png.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\dessert_png.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_pf.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\pf.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ro.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ro.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_mn.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\mn.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_family_dining_png.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\family_dining_png.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_sa.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\sa.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ai.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ai.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_az.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\az.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ug.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ug.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_lk.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\lk.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ee.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ee.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_bs.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\bs.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_tf.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\tf.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_jo.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\jo.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_xk.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\xk.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ma.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ma.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_discount_white_bg_png.jpg.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\discount_white_bg_png.jpg"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_dish_img.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\dish_img.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_lc.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\lc.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_bz.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\bz.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_iq.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\iq.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_subway_logo.jpg.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\subway_logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ht.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ht.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_va.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\va.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_si.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\si.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_uy.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\uy.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_gg.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\gg.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_dg.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\dg.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_sb.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\sb.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ao.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ao.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_mh.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\mh.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_roll.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\roll.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_bt.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\bt.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_us.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\us.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_cp.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\cp.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ir.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ir.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_dining_bottom_nav.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\dining_bottom_nav.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_mw.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\mw.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_uz.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\uz.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_zm.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\zm.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_pubs_and_bars_png.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\pubs_and_bars_png.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ga.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ga.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_fi.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\fi.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_cw.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\cw.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_au.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\au.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_li.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\li.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_km.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\km.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_dm.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\dm.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_hu.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\hu.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ne.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ne.png"
+    },
+    {
+        "merged": "com.sandesh.zomatoclone.app-merged_res-51:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.sandesh.zomatoclone.app-main-53:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_leaf_vector.xml.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\leaf_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_wendys_logo.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\wendys_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_kr.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\kr.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_mx.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\mx.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_cv.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\cv.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_sc.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\sc.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_food.jpg.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\food.jpg"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_zw.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\zw.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_bn.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\bn.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_il.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\il.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_premium_png.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\premium_png.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_hn.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\hn.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_za.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\za.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_gf.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\gf.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_haldirams_logo.jpg.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\haldirams_logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ck.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ck.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_mm.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\mm.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ae.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ae.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_by.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\by.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_kg.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\kg.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_sn.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\sn.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_bm.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\bm.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_tv.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\tv.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_mg.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\mg.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_nu.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\nu.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_bb.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\bb.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_mr.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\mr.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_breakfast_png.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\breakfast_png.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_gw.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\gw.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_non_veg_icon.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\non_veg_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_gq.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\gq.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_sh.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\sh.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_tk.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\tk.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_sy.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\sy.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_un.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\un.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_salad.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\salad.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_om.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\om.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_esga.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\esga.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_re.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\re.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_gd.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\gd.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ki.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ki.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_dk.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\dk.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_lu.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\lu.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_pl.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\pl.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_cm.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\cm.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_starbucks_logo.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\starbucks_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_line_settings_icon.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\line_settings_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_gr.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\gr.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_se.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\se.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ar.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ar.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_np.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\np.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ac.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ac.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ru.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ru.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_yt.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\yt.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_food4.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\food4.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_eh.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\eh.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_tc.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\tc.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ic_do.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ic_do.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ss.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ss.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_gs.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\gs.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_im.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\im.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ua.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ua.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_gbwls.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\gbwls.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ba.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ba.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ic_google.xml.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ic_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_dj.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\dj.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_aq.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\aq.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_cn.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\cn.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_na.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\na.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_st.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\st.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_py.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\py.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ge.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ge.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_lt.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\lt.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_chaat.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\chaat.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_me.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\me.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_dz.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\dz.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_food3.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\food3.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_kw.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\kw.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_mcdonalds_logo.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\mcdonalds_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_no.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\no.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ms.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ms.png"
+    },
+    {
+        "merged": "com.sandesh.zomatoclone.app-merged_res-51:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.sandesh.zomatoclone.app-main-53:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_bq.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\bq.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_in.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\in.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_pk.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\pk.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_search_png.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\search_png.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ad.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ad.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_co.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\co.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_mq.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\mq.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_pizza_hut_logo.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\pizza_hut_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_to.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\to.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_eu.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\eu.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_jm.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\jm.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_gb.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\gb.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_eg.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\eg.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ls.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ls.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_xx.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\xx.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_mf.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\mf.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ta.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ta.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ca.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ca.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_mc.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\mc.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_at.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\at.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_mt.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\mt.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_gp.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\gp.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_rw.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\rw.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_um.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\um.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_delivery_bottom_nav.xml.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\delivery_bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_br.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\br.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_food2.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\food2.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_sg.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\sg.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_lv.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\lv.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_cz.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\cz.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_sd.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\sd.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_nc.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\nc.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_tr.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\tr.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_af.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\af.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_bo.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\bo.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_cl.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\cl.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_pw.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\pw.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_leaf_png.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\leaf_png.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ic_zomato_logo_svg.xml.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ic_zomato_logo_svg.xml"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_burger_king_logo.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\burger_king_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ye.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ye.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_hm.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\hm.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_biryani_veg.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\biryani_veg.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ic_baseline_timer_24.xml.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ic_baseline_timer_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_sr.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\sr.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_td.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\td.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_kh.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\kh.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_bl.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\bl.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ic_three_dots.xml.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ic_three_dots.xml"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ky.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ky.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_pa.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\pa.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_cx.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\cx.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_fj.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\fj.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_mo.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\mo.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_be.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\be.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ph.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ph.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_mv.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\mv.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ag.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ag.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_tm.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\tm.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ly.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ly.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_burger.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\burger.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_tt.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\tt.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_percentage_vector.xml.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\percentage_vector.xml"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_rolls.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\rolls.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_nf.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\nf.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_vi.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\vi.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_et.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\et.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_gn.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\gn.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ic.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ic.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_resto_pic.jpg.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\resto_pic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ci.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ci.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_gu.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\gu.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_kz.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\kz.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_mp.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\mp.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_fr.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\fr.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_nl.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\nl.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_scooter.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\scooter.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_lb.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\lb.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_pg.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\pg.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_bd.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\bd.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_max_safety_delivery_png.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\max_safety_delivery_png.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_hk.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\hk.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_gh.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\gh.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_pn.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\pn.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_es.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\es.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_thali.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\thali.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_cafe_png.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\cafe_png.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_hr.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\hr.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_id.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\id.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_login_page_top_image.webp.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\login_page_top_image.webp"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_tz.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\tz.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_cc.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\cc.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_gbeng.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\gbeng.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_gbnir.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\gbnir.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_th.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\th.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_zpl_bottom_nav.xml.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\zpl_bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ch.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ch.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_vn.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\vn.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_google_logo.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\google_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_nr.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\nr.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_bj.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\bj.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_io.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\io.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_buffet_png.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\buffet_png.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_am.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\am.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_crisp_logo.jpg.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\crisp_logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_romantic_png.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\romantic_png.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_de.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\de.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_fab_icon.xml.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\fab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ec.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ec.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_fk.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\fk.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_gi.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\gi.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_local_dining_bottom_nav.xml.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\local_dining_bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_gbsct.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\gbsct.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_sk.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\sk.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_cy.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\cy.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_bv.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\bv.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_mic_png.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\mic_png.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_tn.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\tn.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_rs.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\rs.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_esct.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\esct.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_sv.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\sv.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_pm.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\pm.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_ng.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\ng.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable-v24_tim_hortons_logo.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable-v24\\tim_hortons_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_mu.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\mu.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_la.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\la.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_wf.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\wf.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_vc.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\vc.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_as.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\as.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_md.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\md.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_lr.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\lr.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_food1.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\food1.png"
+    },
+    {
+        "merged": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-merged_res-51:\\drawable_gt.png.flat",
+        "source": "C:\\Users\\91971\\.gradle\\daemon\\7.4\\com.sandesh.zomatoclone.app-main-53:\\drawable\\gt.png"
+    }
+]
